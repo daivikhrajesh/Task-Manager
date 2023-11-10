@@ -2,17 +2,6 @@
 
 A simple task manager app built with KivyMD, a Material Design framework for Kivy.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This Task Manager app is developed using KivyMD and SQLite to manage your tasks efficiently. It provides a clean and user-friendly interface for adding, completing, and deleting tasks.
